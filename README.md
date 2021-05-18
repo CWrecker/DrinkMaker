@@ -1,3 +1,3 @@
 # DrinkMaker
 test files
-for machine operation 
+for machine operation and tests
